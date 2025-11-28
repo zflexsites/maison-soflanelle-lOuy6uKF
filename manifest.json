@@ -1,0 +1,21 @@
+{
+  "short_name": "Maison Sofla",
+  "name": "Maison Soflanelle",
+  "description": "Maison Soflanelle propose une collection authentique et professionnelle de pagnes pour femmes. Spécialisée dans la mode féminine africaine, la marque allie tradition et élégance moderne pour des tenues uniques et raffinées.",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#F8F5EE",
+  "theme_color": "#A85C32",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-192x192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icons/icon-512x512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
